@@ -1,0 +1,19 @@
+{
+  "name": "pa11y_accessibilitytesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pa11y": "^8.0.0",
+    "pa11y-reporter-html": "^2.0.0",
+    "playwright": "^1.43.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.43.1",
+    "@types/node": "^20.12.8"
+  }
+}
